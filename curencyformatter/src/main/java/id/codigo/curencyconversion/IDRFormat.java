@@ -10,7 +10,6 @@ public class IDRFormat {
         if (price.equalsIgnoreCase("0")) {
             result = "FREE";
             return result;
-            //addd to graddle
         } else {
             int lenght = price.length();
             if (lenght <= 3) {
