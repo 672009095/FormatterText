@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CurencyConversion.iml" filepath="$PROJECT_DIR$/CurencyConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curencyformatter/curencyformatter.iml" filepath="$PROJECT_DIR$/curencyformatter/curencyformatter.iml" />
+    </modules>
+  </component>
+</project>
