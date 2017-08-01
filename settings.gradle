@@ -1,1 +1,1 @@
-include ':curencyformatter'
+include ':curencyformatter', ':curencyformatter-idr'

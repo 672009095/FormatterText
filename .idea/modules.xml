@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CurencyConversion.iml" filepath="$PROJECT_DIR$/CurencyConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/curencyformatter/curencyformatter.iml" filepath="$PROJECT_DIR$/curencyformatter/curencyformatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curencyformatter-idr/curencyformatter-idr.iml" filepath="$PROJECT_DIR$/curencyformatter-idr/curencyformatter-idr.iml" />
     </modules>
   </component>
 </project>
